@@ -12,7 +12,7 @@
 **<problemName><problemNumber(ifthere)><website><tag>**
 - In the tag, you can add your name or some code if there are multiple solutions to the same problem
 - Example:  **twosum_1_leetcode_coolApproach.py**
-This indicates there is leetcode problem 1 called twosum in python, with a cool approach.
+- This indicates there is leetcode problem 1 called twosum in python, with a cool approach.
 ### Assignments
 **Yes, you can just post assignment solutions here if you are that eager, simply use:**
 - **tut/lab** instead of website name 
