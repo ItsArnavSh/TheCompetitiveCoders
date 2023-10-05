@@ -9,7 +9,10 @@
 - Instead, we will have a better file naming system to avoid using too many folders
 ## The file naming convention:
 ### CompetitiveCoding
-<problemName><problemNumber(ifthere)><website><tag>
+<problemName>
+<problemNumber(ifthere)>
+<website>
+<tag>
 - In the tag, you can add your name or some code if there are multiple solutions to the same problem
 - Example:  **twosum_1_leetcode_coolApproach.py**
 - This indicates there is leetcode problem 1 called twosum in python, with a cool approach.
